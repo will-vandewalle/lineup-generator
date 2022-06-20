@@ -1,6 +1,4 @@
 # lineup-generator
-A program that outputs optimal lineups for my summer league swim meets given time/age data on a group of swimmers.
-
 OVERVIEW:
 This project seeks to write optimal lineups for swim meets for my summer league swim team.
 
@@ -12,7 +10,7 @@ The program requires that each swimmer have times recorded for each of the 4 str
 It is built to take in data in the way that it has always been kept at our summer swim club:
 A database of only boys or girls, not separated by age group.
 Therefore, to write lineups for the whole meet, this whole process has to be run twice.
-The data should be in the following format (csv):
+The data must be in the following format (csv):
 
 Name,Fly,Back,Breast,Free,Age
 
